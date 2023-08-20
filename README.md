@@ -19,23 +19,23 @@ App currently includes four activities
 #### 1. Dad Jokes
 With a click of button generate a funny (almost!) random `dad joke`... 
 
-<img src="https://github.com/sssingh/ninja-api-fun/blob/main/assets/dadjokes-logo.png?raw=true" width="1000" height="500"/><br>
+<img src="https://github.com/sssingh/ninja-api-fun/blob/main/assets/dadjokes.png?raw=true" width="1000" height="500"/><br>
 
 
 #### 2. Riddles
 Put your brain at work...
 
-<img src="https://github.com/sssingh/ninja-api-fun/blob/main/assets/riddles-logo.png?raw=true" width="1000" height="500"/><br>
+<img src="https://github.com/sssingh/ninja-api-fun/blob/main/assets/riddles.png?raw=true" width="1000" height="500"/><br>
 
 #### 3. Facts
 Really???
 
-<img src="https://github.com/sssingh/ninja-api-fun/blob/main/assets/facts-logo.png?raw=true" width="1000" height="500"/><br>
+<img src="https://github.com/sssingh/ninja-api-fun/blob/main/assets/facts.png?raw=true" width="1000" height="500"/><br>
 
 #### 3. Trivia
 Not sure how to describe this, suggestions welcome...
 
-<img src="https://github.com/sssingh/ninja-api-fun/blob/main/assets/trivia-logo.png?raw=true" width="1000" height="500"/><br>
+<img src="https://github.com/sssingh/ninja-api-fun/blob/main/assets/trivia.png?raw=true" width="1000" height="500"/><br>
 
 # Project Source
 [👉 Visit GitHub Repo](https://github.com/sssingh/ninja-api-fun)
