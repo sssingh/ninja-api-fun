@@ -38,7 +38,7 @@ def display(text, font="sans-serif", color="white", size="25px"):
 
 def render_about_tab():
     """Render the this page"""
-    with open("README.md", "r") as f:
+    with open("assets/about.md", "r") as f:
         text = f.read()
     st.markdown(text, unsafe_allow_html=True)
 
