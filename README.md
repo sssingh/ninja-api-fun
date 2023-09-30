@@ -1,3 +1,15 @@
+---
+title: Ninja Api Fun
+emoji: 🥷
+colorFrom: purple
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.27.1
+app_file: app.py
+pinned: true
+license: mit
+---
+
 <a href="https://ninja-api-fun-sssingh.streamlit.app/"  target="_blank"><img src="https://img.shields.io/badge/open_app_in_streamlit-f63366?style=for-the-badge&logo=streamlit&logoColor=black" /></a>
 
 <img src="https://github.com/sssingh/ninja-api-fun/blob/main/assets/title.png?raw=true" width="1000" height="300"/><br><br> 
