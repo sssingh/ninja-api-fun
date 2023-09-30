@@ -16,7 +16,7 @@ def jsonify(response):
 def fetch_data(type):
     ### prepare API key and URL
     with st.spinner("Working..."):
-        api_key = os.getenv["RAPID_API_KEY"]
+        api_key = os.getenv("RAPID_API_KEY")
         api_url = f"https://api.api-ninjas.com/v1/{type}"
 
         ### invoke API and get the response

@@ -1,8 +1,8 @@
 ---
 title: Ninja Api Fun
 emoji: 🥷
-colorFrom: purple
-colorTo: gray
+colorFrom: #f63366
+colorTo: #ea819d
 sdk: streamlit
 sdk_version: 1.27.1
 app_file: app.py
